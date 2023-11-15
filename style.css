@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+
+nav{
+	width: 100%;
+	padding: 1%;
+	height: 80px;
+	position: fixed;
+	background-color:dodgerblue;
+	border-bottom:darkblue 3px solid;
+    border-top:darkblue 3px solid;
+    margin: 0% 0% 0% -1%;
+    z-index: 2;
+    text-align: center;
+    font-size: 450%;
+}
+
+.prototipo{
+    float: right;
+    margin-top: 10%;
+    margin-right: 5%;
+}
+
+.subtitulo1{
+    font-size: 50px;
+    padding-top: 13%;
+
+}
+
+.abobrinha{
+    font-size: 35px;
+}
+
+.subtitulo{
+    padding-top: 3%;
+    font-size: 50px;
+}
+
+.branco{
+    z-index: 1;
+    background-color: black;
+    height: 34px;
+    width: 110%;
+    margin:  -34px;
+    float: inline-start;
+    position: fixed;
+}
+
+.social{
+	float:right;
+	width:10%;
+	padding-top:0%;
+}
+
+.social a{
+	display: inline-block;
+	color: #666666;
+    padding-left: 0%;
+}
+
+.social a:hover{
+    color: #ffe498;
+    border-bottom: 2px solid #ffe498;
+}
+
+.imagens{
+    display:inline-block;
+}
+
+.imagens2{
+    display:inline-block;
+}
